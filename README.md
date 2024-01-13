@@ -1,6 +1,6 @@
-# SkySnap-Weather-Pro
+![image](https://github.com/Nilesh-0203/SkySnap-Weather-Pro/assets/121235647/01a6c5ce-90fa-4159-8637-2e025c278ef2)# SkySnap-Weather-Pro
 
-Click the link : 
+Click the link : https://nilesh-0203.github.io/SkySnap-Weather-Pro/
 
 🌦️ Weather App Developer | API Integration 🌍
 
@@ -20,13 +20,12 @@ OpenWeatherMap API for accurate weather data
 
 Modern card layout with a vibrant color scheme 🎨
 Weather icons dynamically change based on current conditions ☔❄️🌤️
+
 👨‍💻 How It Works:
 
 Enter the city name in the search bar.
 Click the search button to fetch real-time weather data.
 Beautifully displayed weather details including temperature, humidity, and wind speed.
-🌐 Stay Connected:
-Explore the code on GitHub [link to GitHub] 🚀
 
 Excited to continue exploring new ways to enhance user experiences and bring creativity to coding! 💻✨
 
